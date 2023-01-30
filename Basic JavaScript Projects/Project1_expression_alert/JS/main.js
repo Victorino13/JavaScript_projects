@@ -23,7 +23,7 @@ document.write("\"Any fool can write code that a computer can understand."
 + "-Martin Fowler");
 
 //Concatenate letters assigned to a variable + display
-var C = "S" + "tring"
+var C = "S" + "tring";
 document.write(C);
 
 //Assigning values to mulitple Variable
@@ -41,3 +41,4 @@ Sent2 = "This is the end of the string";
 
 //show conatenated variables
 document.write(Sent1 + Sent2);
+
