@@ -64,5 +64,6 @@ function object () {
 
 // Math.method challenge
 function method () {
-    document.getElementById("Math").innerHTML = Math.ceil (12.43);
+    document.getElementById("Math").innerHTML = Math.ceil (12.43); //display the rounded up value of parameter.
 }
+
